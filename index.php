@@ -151,7 +151,7 @@ require_once 'registro/clientefunciones.php';
                             <div class="card-body">
                                 <h5 class="card-title pt-2 text-center text-dark">Pollo a la Brasa Completo</h5>
                                 <p class="card-text text-dark-50 description">"Pollo marinado y asado a la parrilla, acompañado de papas fritas, ensalada fresca y salsa criolla."</p>
-                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> $ 12.00</span></h5>
+                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> S/ 65.00</span></h5>
                             </div>
                         </div>
                     </div>      
@@ -166,7 +166,7 @@ require_once 'registro/clientefunciones.php';
                             <div class="card-body">
                                 <h5 class="card-title pt-2 text-center text-dark">Pollo Broaster</h5>
                                 <p class="card-text text-dark-50 description">"Pollo empanizado y frito estilo broaster, servido con papas fritas y ensalada."</p>
-                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> $ 12.00</span></h5>
+                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> S/ 12.00</span></h5>
                             </div>
                         </div>
                     </div>
@@ -180,7 +180,7 @@ require_once 'registro/clientefunciones.php';
                                 <h5 class="card-title pt-2 text-center text-dark">Chicharrón de Pollo</h5>
                                 <p class="card-text text-dark-50 description">
                                     "Trozos de pollo frito acompañados de papas fritas, yuca sancochada, salsa criolla y ají."</p>
-                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> $ 12.00</span></h5>
+                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> S/ 12.00</span></h5>
                             </div>
                         </div>
                     </div>
@@ -193,7 +193,7 @@ require_once 'registro/clientefunciones.php';
                             <div class="card-body">
                                 <h5 class="card-title pt-2 text-center text-dark">Alitas de Pollo</h5>
                                 <p class="card-text text-dark-50 description">"Alitas de pollo a la brasa marinadas y glaseadas con una variedad de salsas: BBQ, picante, teriyaki, entre otras"</p>
-                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> $ 12.00</span></h5>
+                                <h5 class="text-danger text-center" style="margin-top: -10px; font-size: 95%;"><span class="precio text-danger"> S/ 12.00</span></h5>
                             </div>
                         </div>
                     </div>

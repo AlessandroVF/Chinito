@@ -21,10 +21,7 @@
                     <a id="sube" class="nav-link" href="Catalogo.php">Catalogo<img id="menu_var"
                             src="./ventas_img/menu_var.png"></a>
                 
-                    <a id="sube" class="nav-link" href="#Ofertas_x">Ofertas<img id="menu_va"
-                            src="./ventas_img/menu_var.png"></a>
-                    <a id="sube" class="nav-link" href="#informacion_v">Informacion<img id="menu_var"
-                            src="./ventas_img/menu_var.png"></a>
+                    
                     
                     
 

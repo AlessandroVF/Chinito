@@ -10,7 +10,6 @@ $con = $db->conectar();
 
 $productos = isset($_SESSION['carrito']['productos']) ? $_SESSION['carrito']['productos'] : null;
 
-print_r($_SESSION);
 
 $lista_carrito = array();
 
@@ -153,6 +152,8 @@ foreach($productos as $clave => $cantidad){
                             detalles: detalles
                         })
 
+                    }).then(function(response){
+                        window.location.href="../completado.php?key=" + detalles ['id'];
                     })
                 });
             },

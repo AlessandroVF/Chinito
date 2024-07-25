@@ -48,8 +48,22 @@ if(is_array($datos)){
                 }
 
             }
-        }
 
+            // Consulta para obtener el correo del cliente
+            $sql = $con->prepare("
+                SELECT c.* 
+                FROM cliente c
+                WHERE c.idCliente = ?
+            ");
+            // Ejecutar la consulta 
+            $sql->execute([$id_cliente]);
+
+            // Obtener el resultado
+            $cliente = $sql->fetch(PDO::FETCH_ASSOC);
+
+            include 'enviar_email.php';
+        }
+        
         unset($_SESSION['carrito']);
    }
 
